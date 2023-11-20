@@ -9,7 +9,7 @@ class Playwright < Formula
 
   def install
     bin.install "tests"
-    bin.install "workflows"
+    bin.install ".github/workflows"
     bin.install ".gitignore"
     bin.install "package-lock.json"
     bin.install "package.json"
