@@ -2,7 +2,7 @@ class Playwright < Formula
   desc ""
   homepage ""
   url "https://github.com/Abishri765/playwright/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "482ae924a570034e3d16835c0ba2ea81643ea85d13b6f290426644d3c1c0d401"
+  sha256 "84644e23f662bdf825a803d574a30c417f4928ad64144140e42c07c3af7698a6"
   license ""
 
   depends_on "node@18" # Use Node.js 18.17.1
